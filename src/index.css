@@ -1,0 +1,8 @@
+.products-section{
+  display:flex;
+  flex-wrap: nowrap;
+  overflow: scroll;
+  width: 100%;
+  gap: 10px;
+  padding-left: 40px;
+}
